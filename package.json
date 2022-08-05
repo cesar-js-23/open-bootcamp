@@ -1,0 +1,11 @@
+{
+  "name": "tarea-01",
+  "version": "1.0.0",
+  "description": "Hola Mundo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Cesar Julian <cesar.julian23@gmail.com>",
+  "license": "MIT"
+}
